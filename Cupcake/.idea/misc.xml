@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/coding/android_dev/Cupcake/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26615384615384613" />
+        <entry key="..\:/coding/android_dev/Cupcake/app/src/main/res/drawable/button_bg.xml" value="0.2703125" />
+        <entry key="..\:/coding/android_dev/Cupcake/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/coding/android_dev/Cupcake/app/src/main/res/drawable/ic_startPage_background.xml" value="0.26615384615384613" />
+        <entry key="..\:/coding/android_dev/Cupcake/app/src/main/res/drawable/ic_start_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/coding/android_dev/Cupcake/app/src/main/res/drawable/layout_bg.xml" value="0.22179487179487178" />
+        <entry key="..\:/coding/android_dev/Cupcake/app/src/main/res/layout/activity_main.xml" value="0.2916666666666667" />
+        <entry key="..\:/coding/android_dev/Cupcake/app/src/main/res/layout/flavour_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/coding/android_dev/Cupcake/app/src/main/res/layout/fragment_count.xml" value="0.25416666666666665" />
+        <entry key="..\:/coding/android_dev/Cupcake/app/src/main/res/layout/fragment_flavour.xml" value="0.25" />
+        <entry key="..\:/coding/android_dev/Cupcake/app/src/main/res/layout/fragment_start.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
